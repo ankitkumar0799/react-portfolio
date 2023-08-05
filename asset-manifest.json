@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Point-News/static/css/main.c739297c.css",
+    "main.js": "/Point-News/static/js/main.f618958f.js",
+    "static/media/cv.pdf": "/Point-News/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/Point-News/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.png": "/Point-News/static/media/me-about.1a6bda9150f63231e101.png",
+    "static/media/portfolio3.jpg": "/Point-News/static/media/portfolio3.38816bdc72dc980b5597.jpg",
+    "static/media/portfolio1.jpg": "/Point-News/static/media/portfolio1.a9599e7b3476080c460b.jpg",
+    "static/media/portfolio5.jpg": "/Point-News/static/media/portfolio5.7f436a2973d631ccd4f3.jpg",
+    "index.html": "/Point-News/index.html",
+    "main.c739297c.css.map": "/Point-News/static/css/main.c739297c.css.map",
+    "main.f618958f.js.map": "/Point-News/static/js/main.f618958f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c739297c.css",
+    "static/js/main.f618958f.js"
+  ]
+}
